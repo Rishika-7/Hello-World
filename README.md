@@ -1,3 +1,2 @@
-# Hello-World
-first ever repository
-Hello new world, absolute fresher here who's super excited to explore this new world, can't wait!!!
+# Hello World!
+This was my first repository. Modifying it to write Hello World basic program in various Programming Languages.
